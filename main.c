@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <conio.h> // getch();
-#include <string.h> // strcmp
-#include <ctype.h> // header
+#include <conio.h>
+#include <string.h>
+#include <ctype.h>
 #include "header1.h"
 
 
